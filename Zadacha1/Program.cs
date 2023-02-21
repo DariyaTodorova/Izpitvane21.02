@@ -10,8 +10,22 @@ namespace Zadacha1
     {
         static void Main(string[] args)
         {
-            int[] n = 
+            int[] numbers = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+            Console.WriteLine(string.Join(" ", numbers));
+            float average = AverageOfNumbers(numbers);
+            Console.WriteLine(average);
+        }
 
+        private static float AverageOfNumbers(int[] nums)
+        {
+            float result;
+            float sum=0;
+            for (int i = 0; i <nums.Length; i++)
+            {
+               sum = sum + nums[i];
+            }
+            result = sum/nums.Length;
+            return result;
         }
     }
 }

@@ -1,3 +1,8 @@
 C:\9d Dariya\Izpitvane21.02.23\Zadacha1\obj\Debug\Zadacha1.csproj.AssemblyReference.cache
 C:\9d Dariya\Izpitvane21.02.23\Zadacha1\obj\Debug\Zadacha1.csproj.SuggestedBindingRedirects.cache
 C:\9d Dariya\Izpitvane21.02.23\Zadacha1\obj\Debug\Zadacha1.csproj.CoreCompileInputs.cache
+C:\9d Dariya\Izpitvane21.02.23\Zadacha1\bin\Debug\Zadacha1.exe.config
+C:\9d Dariya\Izpitvane21.02.23\Zadacha1\bin\Debug\Zadacha1.exe
+C:\9d Dariya\Izpitvane21.02.23\Zadacha1\bin\Debug\Zadacha1.pdb
+C:\9d Dariya\Izpitvane21.02.23\Zadacha1\obj\Debug\Zadacha1.exe
+C:\9d Dariya\Izpitvane21.02.23\Zadacha1\obj\Debug\Zadacha1.pdb
